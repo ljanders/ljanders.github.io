@@ -1,4 +1,3 @@
-Theme
 # Github Portfolio for Laurie Anderson
 ## Morris Family Professor of Natural Sciences
 ## Ohio Wesleyan University
