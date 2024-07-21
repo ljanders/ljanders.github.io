@@ -1,5 +1,7 @@
 # Github Portfolio for Laurie Anderson
-## Morris Family Professor of Natural Sciences
+<span style="color: green; font-size: 2rem"> 
+  Morris Family Professor of Natural Sciences
+</span>.
 ## Ohio Wesleyan University
 ### Check out my [bio!](https://www.owu.edu/academics/departments-programs/biological-sciences-department/faculty-staff/laurel-j-anderson/)
 <img 
